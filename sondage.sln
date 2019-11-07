@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sondage.Android", "sondage\sondage.Android\sondage.Android.csproj", "{8AE14E5B-268A-4F10-B9C7-5E05882641C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sondage", "sondage\sondage\sondage.csproj", "{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AE14E5B-268A-4F10-B9C7-5E05882641C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE14E5B-268A-4F10-B9C7-5E05882641C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE14E5B-268A-4F10-B9C7-5E05882641C7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8AE14E5B-268A-4F10-B9C7-5E05882641C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE14E5B-268A-4F10-B9C7-5E05882641C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE14E5B-268A-4F10-B9C7-5E05882641C7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A37D4D1-F719-4C07-9FBF-4FC2D500EA98}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF4FE12-75F8-46C7-9E11-7DCC14AF5F6B}
+	EndGlobalSection
+EndGlobal
